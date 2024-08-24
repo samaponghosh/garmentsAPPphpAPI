@@ -1,0 +1,301 @@
+[14-Aug-2024 07:46:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'techshdd_garments'@'localhost' (using password: YES) in /home2/techshdd/project.techsocietymovement.com/garments/config.php:2
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/config.php(2): mysqli_connect('localhost', 'techshdd_garmen...', Object(SensitiveParameterValue), 'techshdd_garmen...')
+#1 /home2/techshdd/project.techsocietymovement.com/garments/signup.php(12): include('/home2/techshdd...')
+#2 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/config.php on line 2
+[14-Aug-2024 07:46:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'techshdd_garments'@'localhost' (using password: YES) in /home2/techshdd/project.techsocietymovement.com/garments/config.php:2
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/config.php(2): mysqli_connect('localhost', 'techshdd_garmen...', Object(SensitiveParameterValue), 'techshdd_garmen...')
+#1 /home2/techshdd/project.techsocietymovement.com/garments/signup.php(12): include('/home2/techshdd...')
+#2 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/config.php on line 2
+[14-Aug-2024 07:47:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'garments'@'localhost' (using password: YES) in /home2/techshdd/project.techsocietymovement.com/garments/config.php:2
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/config.php(2): mysqli_connect('localhost', 'garments', Object(SensitiveParameterValue), 'techshdd_garmen...')
+#1 /home2/techshdd/project.techsocietymovement.com/garments/signup.php(12): include('/home2/techshdd...')
+#2 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/config.php on line 2
+[14-Aug-2024 07:59:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'techshdd_garments'@'localhost' (using password: YES) in /home2/techshdd/project.techsocietymovement.com/garments/config.php:2
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/config.php(2): mysqli_connect('localhost', 'techshdd_garmen...', Object(SensitiveParameterValue), 'garments')
+#1 /home2/techshdd/project.techsocietymovement.com/garments/signup.php(12): include('/home2/techshdd...')
+#2 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/config.php on line 2
+[14-Aug-2024 08:00:04 UTC] PHP Warning:  Undefined array key "name" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 8
+[14-Aug-2024 08:00:04 UTC] PHP Warning:  Undefined array key "email" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 9
+[14-Aug-2024 08:00:04 UTC] PHP Warning:  Undefined array key "password" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 10
+[14-Aug-2024 08:00:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'techshdd_garments'@'localhost' (using password: YES) in /home2/techshdd/project.techsocietymovement.com/garments/config.php:2
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/config.php(2): mysqli_connect('localhost', 'techshdd_garmen...', Object(SensitiveParameterValue), 'garments')
+#1 /home2/techshdd/project.techsocietymovement.com/garments/signup.php(12): include('/home2/techshdd...')
+#2 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/config.php on line 2
+[14-Aug-2024 08:01:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'techshdd_garments'@'localhost' (using password: YES) in /home2/techshdd/project.techsocietymovement.com/garments/config.php:2
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/config.php(2): mysqli_connect('localhost', 'techshdd_garmen...', Object(SensitiveParameterValue), 'techshdd_garmen...')
+#1 /home2/techshdd/project.techsocietymovement.com/garments/signup.php(12): include('/home2/techshdd...')
+#2 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/config.php on line 2
+[16-Aug-2024 05:25:09 UTC] PHP Warning:  Undefined array key "name" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 8
+[16-Aug-2024 05:25:15 UTC] PHP Warning:  Undefined array key "name" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 8
+[16-Aug-2024 05:25:15 UTC] PHP Warning:  Undefined array key "email" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 9
+[16-Aug-2024 05:28:31 UTC] PHP Warning:  Undefined array key "name" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 8
+[16-Aug-2024 05:28:31 UTC] PHP Warning:  Undefined array key "email" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 9
+[16-Aug-2024 05:33:03 UTC] PHP Warning:  Undefined array key "password" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 10
+[16-Aug-2024 05:34:13 UTC] PHP Warning:  Undefined array key "password" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 10
+[16-Aug-2024 05:34:17 UTC] PHP Warning:  Undefined array key "email" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 9
+[16-Aug-2024 05:34:17 UTC] PHP Warning:  Undefined array key "password" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 10
+[16-Aug-2024 05:39:25 UTC] PHP Warning:  Undefined array key "email" in /home2/techshdd/project.techsocietymovement.com/garments/login.php on line 8
+[16-Aug-2024 05:39:25 UTC] PHP Warning:  Undefined array key "password" in /home2/techshdd/project.techsocietymovement.com/garments/login.php on line 9
+[16-Aug-2024 06:20:06 UTC] PHP Warning:  Undefined array key "sub_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 19
+[16-Aug-2024 06:20:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 6' at line 3 in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php:25
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php(25): mysqli_query(Object(mysqli), 'SELECT p.pro_id...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 25
+[16-Aug-2024 06:21:32 UTC] PHP Warning:  Undefined array key "sub_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 16
+[16-Aug-2024 06:25:10 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 19
+[16-Aug-2024 06:26:14 UTC] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($value) must be of type Countable|array, string given in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 19
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 06:33:45 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 27
+[16-Aug-2024 07:07:44 UTC] PHP Parse error:  syntax error, unexpected identifier "Query" in /home2/techshdd/project.techsocietymovement.com/garments/mainPageProducts.php on line 22
+[16-Aug-2024 07:08:19 UTC] PHP Parse error:  syntax error, unexpected identifier "Query" in /home2/techshdd/project.techsocietymovement.com/garments/mainPageProducts.php on line 22
+[16-Aug-2024 07:09:39 UTC] PHP Parse error:  syntax error, unexpected identifier "Query" in /home2/techshdd/project.techsocietymovement.com/garments/mainPageProducts.php on line 21
+[16-Aug-2024 07:52:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php:11
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 11
+[16-Aug-2024 07:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php:11
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php(11): mysqli_query(Object(mysqli), 'SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/subCategories.php on line 11
+[16-Aug-2024 08:28:58 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:28:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:28:58 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:28:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:29:22 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:29:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:29:22 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:29:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:33:22 UTC] PHP Warning:  Undefined array key "cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 7
+[16-Aug-2024 08:39:41 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:39:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:39:41 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 08:39:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 12:20:59 UTC] PHP Warning:  Undefined array key "cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/underCategories.php on line 8
+[16-Aug-2024 12:20:59 UTC] PHP Warning:  Undefined array key "sub_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/underCategories.php on line 9
+[16-Aug-2024 12:52:53 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 12:52:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 12:52:53 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 12:52:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/categories2.php on line 27
+[16-Aug-2024 12:58:16 UTC] PHP Warning:  Undefined array key "sub_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/underCategories.php on line 9
+[16-Aug-2024 13:13:47 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/catalog1.php on line 43
+[16-Aug-2024 13:13:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/catalog1.php on line 43
+[16-Aug-2024 13:13:47 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/catalog1.php on line 43
+[16-Aug-2024 13:13:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/catalog1.php on line 43
+[19-Aug-2024 07:23:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'search_keyword' in 'where clause' in /home2/techshdd/project.techsocietymovement.com/garments/search.php:12
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 12
+[19-Aug-2024 07:23:47 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:23:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/search.php:12
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 12
+[19-Aug-2024 07:24:36 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:24:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/search.php:12
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 12
+[19-Aug-2024 07:24:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Tshirts' in 'where clause' in /home2/techshdd/project.techsocietymovement.com/garments/search.php:12
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 12
+[19-Aug-2024 07:25:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Tshirts' in 'where clause' in /home2/techshdd/project.techsocietymovement.com/garments/search.php:12
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 12
+[19-Aug-2024 07:29:08 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:29:42 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:29:58 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:29:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/search.php:12
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 12
+[19-Aug-2024 07:30:23 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:30:28 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 07:39:13 UTC] PHP Warning:  Undefined array key "search_keyword" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 7
+[19-Aug-2024 08:33:55 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:33:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:34:05 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:34:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:34:05 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:34:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:40:43 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 08:40:49 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 08:42:12 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 08:44:35 UTC] PHP Warning:  Undefined variable $que1 in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 25
+[19-Aug-2024 08:44:35 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home2/techshdd/project.techsocietymovement.com/garments/search.php:25
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(25): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 25
+[19-Aug-2024 08:46:25 UTC] PHP Warning:  Undefined variable $que1 in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 25
+[19-Aug-2024 08:46:25 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home2/techshdd/project.techsocietymovement.com/garments/search.php:25
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(25): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 25
+[19-Aug-2024 08:47:20 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:47:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 27
+[19-Aug-2024 08:51:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pro_name' in 'field list' in /home2/techshdd/project.techsocietymovement.com/garments/search.php:47
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/search.php(47): mysqli_query(Object(mysqli), 'SELECT pro_id, ...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 47
+[19-Aug-2024 08:54:59 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 08:54:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 08:54:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 49
+[19-Aug-2024 08:54:59 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 08:54:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 09:08:21 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 09:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 09:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 49
+[19-Aug-2024 09:08:21 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 09:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 50
+[19-Aug-2024 09:10:58 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 51
+[19-Aug-2024 09:10:58 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:10:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:10:58 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + array in /home2/techshdd/project.techsocietymovement.com/garments/search.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 53
+[19-Aug-2024 09:11:08 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 51
+[19-Aug-2024 09:11:08 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:11:08 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 51
+[19-Aug-2024 09:11:08 UTC] PHP Warning:  Undefined variable $rating in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:12:00 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 51
+[19-Aug-2024 09:12:00 UTC] PHP Warning:  Undefined array key "pro_name" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:12:00 UTC] PHP Warning:  Undefined array key "pro_id" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 51
+[19-Aug-2024 09:12:00 UTC] PHP Warning:  Undefined array key "pro_name" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 52
+[19-Aug-2024 09:44:03 UTC] PHP Warning:  Undefined variable $category in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 104
+[19-Aug-2024 09:44:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 104
+[19-Aug-2024 09:47:47 UTC] PHP Warning:  Undefined array key "under_category" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 101
+[19-Aug-2024 09:50:50 UTC] PHP Warning:  Undefined array key "under_category" in /home2/techshdd/project.techsocietymovement.com/garments/search.php on line 103
+[19-Aug-2024 10:07:37 UTC] PHP Warning:  Undefined array key "cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 8
+[19-Aug-2024 10:07:37 UTC] PHP Warning:  Undefined array key "sub_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 9
+[19-Aug-2024 10:07:37 UTC] PHP Warning:  Undefined array key "under_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 10
+[19-Aug-2024 10:07:37 UTC] PHP Warning:  Undefined array key "down_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 11
+[19-Aug-2024 10:07:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.sub_cat_id =  AND p.under_cat_id =  AND p.down_cat_id =  AND p.stock_quant' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php:15
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php(15): mysqli_query(Object(mysqli), 'SELECT p.pro_id...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 15
+[19-Aug-2024 10:07:41 UTC] PHP Warning:  Undefined array key "cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 8
+[19-Aug-2024 10:07:41 UTC] PHP Warning:  Undefined array key "sub_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 9
+[19-Aug-2024 10:07:41 UTC] PHP Warning:  Undefined array key "under_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 10
+[19-Aug-2024 10:07:41 UTC] PHP Warning:  Undefined array key "down_cat_id" in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 11
+[19-Aug-2024 10:07:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.sub_cat_id =  AND p.under_cat_id =  AND p.down_cat_id =  AND p.stock_quant' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php:15
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php(15): mysqli_query(Object(mysqli), 'SELECT p.pro_id...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 15
+[19-Aug-2024 10:09:47 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 27
+[19-Aug-2024 10:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 27
+[19-Aug-2024 10:37:40 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/catalog1.php on line 26
+[19-Aug-2024 10:37:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/catalog1.php on line 26
+[19-Aug-2024 10:55:53 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 27
+[19-Aug-2024 10:55:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/catalog2.php on line 27
+[19-Aug-2024 11:14:35 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:14:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:14:35 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:14:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:15:54 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:15:54 UTC] PHP Warning:  Undefined variable $reviews in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/techshdd/project.techsocietymovement.com/garments/sortbyNewest.php on line 64
+[19-Aug-2024 11:46:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT p.pro_id, p.pro_name, p.price, p.discount FROM product p
+          LEF' at line 1 in /home2/techshdd/project.techsocietymovement.com/garments/filteredData.php:50
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/filteredData.php(50): mysqli->query('SELECT p.pro_im...')
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/filteredData.php on line 50
+[19-Aug-2024 11:58:17 UTC] PHP Warning:  Undefined variable $res in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php on line 23
+[19-Aug-2024 11:58:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_all(): Argument #1 ($result) must be of type mysqli_result, null given in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php:23
+Stack trace:
+#0 /home2/techshdd/project.techsocietymovement.com/garments/productCard.php(23): mysqli_fetch_all(NULL, 1)
+#1 {main}
+  thrown in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php on line 23
+[19-Aug-2024 12:12:49 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php on line 31
+[19-Aug-2024 12:13:38 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php on line 31
+[19-Aug-2024 12:15:33 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php on line 31
+[19-Aug-2024 12:16:08 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home2/techshdd/project.techsocietymovement.com/garments/productCard.php on line 31
+[19-Aug-2024 12:37:19 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in /home2/techshdd/project.techsocietymovement.com/garments/addToCart.php on line 13
+[19-Aug-2024 12:37:24 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in /home2/techshdd/project.techsocietymovement.com/garments/addToCart.php on line 13
+[19-Aug-2024 12:37:31 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in /home2/techshdd/project.techsocietymovement.com/garments/addToCart.php on line 13
+[19-Aug-2024 12:38:24 UTC] PHP Warning:  Undefined array key "color_id" in /home2/techshdd/project.techsocietymovement.com/garments/addToCart.php on line 10
+[19-Aug-2024 12:38:33 UTC] PHP Warning:  Undefined array key "size_id" in /home2/techshdd/project.techsocietymovement.com/garments/addToCart.php on line 11
+[19-Aug-2024 12:53:48 UTC] PHP Warning:  Undefined array key "current_date" in /home2/techshdd/project.techsocietymovement.com/garments/addReview.php on line 14
+[19-Aug-2024 13:13:26 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/techshdd/project.techsocietymovement.com/garments/addReview.php on line 41
+[19-Aug-2024 13:13:53 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/techshdd/project.techsocietymovement.com/garments/addReview.php on line 41
+[23-Aug-2024 12:24:28 UTC] PHP Warning:  Undefined array key "name" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 8
+[23-Aug-2024 12:24:28 UTC] PHP Warning:  Undefined array key "email" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 9
+[23-Aug-2024 12:24:28 UTC] PHP Warning:  Undefined array key "password" in /home2/techshdd/project.techsocietymovement.com/garments/signup.php on line 10
